@@ -1,0 +1,16 @@
+# Tamper-Evident Log System - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+# Requires Python 3.6 or higher
+
+# Standard library modules used:
+# - hashlib (built-in)
+# - json (built-in)
+# - os (built-in)
+# - datetime (built-in)
+# - shutil (built-in)
+
+# Note: This project does not require any pip installations.
+# All modules are included in Python's standard library.
